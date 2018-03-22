@@ -12,8 +12,8 @@ tags:
 - Stack Network
 - Google APIs
 - Database
-created: "2018-03-15"
-modified: "2018-03-15"
+created: "2018-03-22"
+modified: "2018-03-22"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-sql/master/_listings/google-cloud-sql/apis.yaml
 specificationVersion: "0.14"
 apis:
