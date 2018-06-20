@@ -8,10 +8,10 @@ description: Cloud SQL is a fully-managed database service that makes it easy to
   running anywhere.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-sql-lead-2x.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Cloud SQL
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-sql/master/_listings/google-cloud-sql/apis.md
 specificationVersion: "0.14"
 apis:
